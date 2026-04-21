@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedPulse.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905c38816fdf2e11cb4ed4bf57794d0133bbff2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f761123b31a2c2fa30606280c8a39cecd16edbf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedPulse.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedPulse.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
